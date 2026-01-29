@@ -1,4 +1,4 @@
-# Sistema de Gestão — Projeto da disciplina de Programação em C
+# Sistema de Gestão — C
 
 Este projeto é uma aplicação de terminal em **C** para gerenciamento de **Clientes** e **Produtos**.  
 O objetivo é praticar o uso de **ponteiros**, **vetores dinâmicos** e **estruturas**, criando um sistema simples de cadastro e controle de estoque sem persistência em arquivos.
